@@ -1,0 +1,3 @@
+I use this code to power a [WASD switch tester](http://www.wasdkeyboards.com/index.php/products/sampler-kit/wasd-6-key-cherry-mx-switch-tester.html) that I turned into a macropad.
+
+All credit due to [this person](https://imgur.com/r/MechanicalKeyboards/2B0Zt) who not only inspired me, but from whom I borrowed a significant amount of information, including the code _they_ used. Woo hoo!
