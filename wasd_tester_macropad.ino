@@ -1,9 +1,9 @@
 /*
  * This project is based on another person's basically identical project here:
  * https://imgur.com/r/MechanicalKeyboards/2B0Zt
- * 
+ *
  * The code is based on their code, as well. It's here: https://pastebin.com/gLEab4wA
- * 
+ *
  * I did make modifications. If it's not where you found this, you can find the updated
  * code here: [tbd]
  */
